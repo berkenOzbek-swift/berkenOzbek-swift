@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'am currently working on SportRadar<br>I'am looking for help with iOS developers<br>I'am currently learning Swift and SwiftUI<br>Ask me everything about developing mobile application<br>
+I'am currently working on Mellon Technology<br>Ask me everything about developing mobile application<br>
 
 
 ## 🌐 Socials:
